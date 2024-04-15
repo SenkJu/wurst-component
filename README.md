@@ -4,7 +4,7 @@ A simple example component for LiquidBounce recreating the HUD of the Wurst clie
 ![screenshot](gh_assets/screenshot.png)
 
 ## Installation
-1. Download the latest release from the [releases tab](releases).
+1. Download the latest release from the [releases tab](https://github.com/SenkJu/wurst-component/releases).
 2. Extract the zip file, open the file called `index.html` and copy its content to the clipboard.
 3. Run LiquidBounce, join a world and execute `.client component add frame .`.
 4. Open the ClickGUI, locate the HUD module and expand its settings.
